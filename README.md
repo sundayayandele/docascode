@@ -13,3 +13,6 @@ I’d rather be writing: Tom Johnson: Docs as code tools and workflows presentat
 Greach, Madrid, Spain: Ralf D. Müller: Docs as code: arc42, AsciiDoc, Gradle & Co combined
 JavaMagazin: Gernot Starke, Ralf D. Müller: Hitchhiker’s Guide to Docs as Code (German)
 FrOSCon, Sankt Augustin, Germany: Christoph Stoettner: Documentation with any Editor
+
+
+****Guide to Architecture Documentation
